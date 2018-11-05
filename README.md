@@ -13,20 +13,16 @@ Find me on [LinkedIn](www.linkedin.com/in/corey-moura)
 
 <p align="center">
 
-Right click the ConnectFour Class.
-<br/>
 <img width="400" height=”550” alt="screen shot 2018-11-05 at 10 17 37 am" src="https://user-images.githubusercontent.com/37875517/48007719-3882db80-e0e6-11e8-994a-bb0979bfb3f7.png">
 
 <br/>
 <br/>
-Select highlighted option to run the program.
-<br/>
+
 <img width="400" height=”550” alt="screen shot 2018-11-05 at 10 31 02 am" src="https://user-images.githubusercontent.com/37875517/48007751-446e9d80-e0e6-11e8-975a-65c5c6ff82dc.png">
 
 <br/>
 <br/>
-Select enter.
-<br/>
+
 <img width="400" height=”550” alt="screen shot 2018-11-05 at 10 31 15 am" src="https://user-images.githubusercontent.com/37875517/48007762-49cbe800-e0e6-11e8-9d45-151b2ee02894.png">
 
 <br/>
@@ -63,8 +59,6 @@ Select enter.
 <br/>
 
 <img width="400" height=”550” alt="screen shot 2018-11-05 at 10 16 59 am" src="https://user-images.githubusercontent.com/37875517/48007853-73850f00-e0e6-11e8-8f89-aec1899c4025.png">
-
-
 
 </p>
 
