@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ConnectFourPanel
+comment1.params=pquitItem\ pgameItem
+comment1.target=ConnectFourPanel(javax.swing.JMenuItem,\ javax.swing.JMenuItem)
+comment2.params=x\ y\ h\ w
+comment2.target=java.awt.GridBagConstraints\ constraints(int,\ int,\ int,\ int)
+comment3.params=x\ y\ h\ w
+comment3.target=java.awt.GridBagConstraints\ constraintsLabels(int,\ int,\ int,\ int)
+comment3.text=Assigns\ the\ Labels\ which\ called\ the\ function\ a\ location\ in\ the\ JFrame\ via\ grid\ points
+comment4.params=x\ y\ h\ w
+comment4.target=java.awt.GridBagConstraints\ constraintsText(int,\ int,\ int,\ int)
+comment4.text=Assigns\ the\ Text\ fields\ which\ called\ the\ function\ a\ location\ in\ the\ JFrame\ via\ grid\ points
+numComments=5
