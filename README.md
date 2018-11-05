@@ -4,7 +4,7 @@ This is a Connect 4 game with mutliple levels of difficulty.  You will play agai
 # Notes
 To run the program, clone the repository.  Once uploaded, open the project on your computer with your preffered IDE which runs Java.  Select and run the ConnectFour class.  
 
-Find me on [LinkedIn](www.linkedin.com/in/corey-moura.com)
+Find me on [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
 
 <br/>
